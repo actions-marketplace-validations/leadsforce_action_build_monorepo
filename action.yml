@@ -1,5 +1,5 @@
-name: 'mono-deployer'
-description: 'Single line deploy action to use within leadsforce monorepo'
+name: 'mono-builder'
+description: 'Single line build action to use within leadsforce monorepo'
 
 inputs:
   repo:
